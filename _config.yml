@@ -1,0 +1,6 @@
+title: Blog da ENETEC
+description: Mr.Brown is a responsive jekyll theme
+url: "primariaenergia.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+
