@@ -33,25 +33,7 @@ title: Portfólio
 
      <hr>
       
-      <!-- Project Two -->
-
-
-      <div class="row">
-        <div class="col-md-7">
-          <a href="{{ post.url }}">
-           
-              <a href="{{post.url | prepend: site.baseurl}}"> <img class="img-fluid rounded mb-3 mb-md-0" src={{ "/assets/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"></a> 
-
-          </a>
-        </div>
-        <div class="col-md-5">
-          <h3>{{ post.title }}</h3>
-          <p> {{ post.description }}</p>
-          <a class="btn btn-primary" href="{{post.url | prepend: site.baseurl}}">Ver mais sobre o projeto</a>
-        </div>
-      </div>
-      <!-- /.row -->
-          <hr>
+     
   {% endfor %}
 
     </div>
