@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Projeto João"
+description: O projeto realizado foi um sistema fotovoltaico de 16 placas no  [...]
+date: 2018-08-21
+img: joao.jpg
+---
+
+O projeto realizado foi um sistema fotovoltaico de 16 placas no qual irá gerar uma economia de mais ou menos 650 reais mensais para o cliente, totalizando ao final de um ano completo 7800 reais salvos devido ao serviço adquerido. Com esse sistema, o cliente terá o retorno em 4 anos. O cliente gostou da rapidez e honestidade com que o projeto foi realizado.
+
+Potência: 5,2 KWp
+
+Número de Placas: 16
+
+Produção:700 KWH
+
+Economia por ano: 7800 reais
+
+Tempo de retorno do investimento: 4 anos
