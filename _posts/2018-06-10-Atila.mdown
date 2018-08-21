@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Projeto Átila"
+description: O projeto realizado foi um sistema fotovoltaico de 16 placas no  [...]
+date: 2018-06-10
+img: Atila.jpeg
+---
+
+O projeto realizado na Qi 9 do Lago Sul,foi um sistema fotovoltaico de 16 placas no qual irá gerar uma economia de mais ou menos 650 reais mensais para o cliente, totalizando ao final de um ano completo 7800 reais salvos devido ao serviço adquerido. Com esse sistema, o cliente terá o retorno em 4 anos. 
+
+Potência: 5,2 KWp
+
+Número de Placas: 16
+
+Produção:700 KWH
+
+Economia por ano: 7800 reais
+
+Tempo de retorno do investimento: 4 anos
