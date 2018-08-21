@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Projeto Fábio"
+description: O projeto realizado foi um sistema fotovoltaico de 36 placas no  [...]
+date: 2018-08-21
+img: Fabio.jpg
+---
+
+O projeto realizado foi um sistema fotovoltaico de 36 placas no qual irá gerar uma economia de mais ou menos 1500 reais mensais para o cliente, totalizando ao final de um ano completo 18000 reais salvos devido ao serviço adquerido. Com esse sistema, o cliente terá o retorno em 3 anos e meio
+
+Potência: 11,7 KWp
+
+Número de Placas: 36
+
+Produção:1512KWH
+
+Economia por ano: 18000 reais
+
+Tempo de retorno do investimento: 3,5 anos
