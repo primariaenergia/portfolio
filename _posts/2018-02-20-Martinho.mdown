@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Projeto Martinho"
+description: O projeto realizado foi um sistema fotovoltaico de 18 placas no  [...]
+date: 2019-02-20
+img: Martinho.jpeg
+---
+
+O projeto realizado na Qi 5 do Lago Sul,foi um sistema fotovoltaico de 18 placas no qual irá gerar uma economia de mais ou menos 700 reais mensais para o cliente, totalizando ao final de um ano completo 8400 reais salvos devido ao serviço adquerido. Com esse sistema, o cliente terá o retorno em 3,5 anos. 
+
+Potência: 5,94 KWp
+
+Número de Placas: 18
+
+Produção:756 KWH
+
+Economia por ano: 7800 reais
+
+Tempo de retorno do investimento: 3,5 anos
