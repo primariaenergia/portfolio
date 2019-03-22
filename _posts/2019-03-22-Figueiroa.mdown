@@ -3,7 +3,7 @@ layout: post
 title:  "Projeto Figueiroa"
 description: O projeto realizado foi um sistema fotovoltaico de 16 placas no  [...]
 date: 2019-03-22
-img: Martinho.jpeg
+img: Figueiroa.jpg
 ---
 
 O projeto realizado na Qi 11 do Lago Norte,foi um sistema fotovoltaico de 16 placas no qual irá gerar uma economia de mais ou menos 600 reais mensais para o cliente, totalizando ao final de um ano completo 7200 reais salvos devido ao serviço adquerido. Com esse sistema, o cliente terá o retorno em 3,5 anos. 
