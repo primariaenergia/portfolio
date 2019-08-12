@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Projeto Marco Antônio"
+description: O projeto realizado foi um sistema fotovoltaico de 24 placas no  [...]
+date: 2019-03-22
+img: MarcoAntonio.jpeg
+---
+
+O projeto realizado na Qi 04 do Lago Norte,foi um sistema fotovoltaico de 24 placas no qual irá gerar uma economia de mais ou menos 600 reais mensais para o cliente, totalizando ao final de um ano completo 7200 reais salvos devido ao serviço adquerido. 
+
+Potência: 7,92 KWp
+
+Número de Placas: 24
+
+Produção:1054 KWH
+
+Economia por ano: 10000 reais
+
+Tempo de retorno do investimento: 4 anos
