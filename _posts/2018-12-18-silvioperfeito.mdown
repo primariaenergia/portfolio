@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Projeto Silvio Perfeito"
+description: O projeto realizado foi um sistema fotovoltaico de 25 placas no  [...]
+date: 2019-12-18
+img: silvioperfeito.jpg
+---
+
+O projeto realizado no Lago Norte, em Brasília, foi um sistema fotovoltaico de 25 placas de 330Wp, no qual irá gerar uma economia de mais ou menos 750 reais mensais para o cliente, totalizando ao final de um ano completo 9000 reais salvos devido ao serviço adquerido. 
+
+Potência: 8,25 KWp
+
+Número de Placas: 25
+
+Produção: 12600 kWh
+
+Economia por ano: 9000 reais
