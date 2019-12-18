@@ -3,7 +3,7 @@ layout: post
 title:  "Projeto Silvio Ferreira"
 description: O projeto realizado foi um sistema fotovoltaico de 56 placas no  [...]
 date: 2019-07-25
-img: silvio.jpg
+img: silvioferreira.jpg
 ---
 
 O projeto realizado na QL 28 do Lago Sul,foi um sistema fotovoltaico de 56 placas de 360Wp, no qual irá gerar uma economia de mais ou menos 2100 reais mensais para o cliente, totalizando ao final de um ano completo 26000 reais salvos devido ao serviço adquerido. 
