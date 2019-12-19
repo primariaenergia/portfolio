@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Fernando"
+description: O projeto realizado foi um sistema fotovoltaico de 10 placas no  [...]
+date: 2019-12-19
+img: fernando.jpg
+---
+
+O projeto realizado em Vicente Pires, Brasília, foi um sistema fotovoltaico de 10 placas de 360Wp, no qual irá gerar uma economia de mais ou menos 360 reais mensais para o cliente, totalizando ao final de um ano completo 4320 reais salvos devido ao serviço adquerido. 
+
+Potência: 3,6 KWp
+
+Número de Placas: 10
+
+Produção anual: 5450 kWh
