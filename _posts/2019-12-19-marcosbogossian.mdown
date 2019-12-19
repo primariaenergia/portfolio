@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Marcos"
+description: O projeto realizado foi um sistema fotovoltaico de 18 placas no  [...]
+date: 2019-12-19
+img: marcosbogossian.jpg
+---
+
+O projeto realizado no Lago Sul, em Brasília, foi um sistema fotovoltaico de 18 placas de 330Wp, no qual irá gerar uma economia de mais ou menos 630 reais mensais para o cliente, totalizando ao final de um ano completo 7580 reais salvos devido ao serviço adquerido. 
+
+Potência: 5,94 KWp
+
+Número de Placas: 18
+
+Produção anual: 9480 kWh
