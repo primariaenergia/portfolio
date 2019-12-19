@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Ático"
+description: O projeto realizado foi um sistema fotovoltaico de 38 placas no  [...]
+date: 2019-12-19
+img: atico.jpg
+---
+
+O projeto realizado no Lago Norte, em Brasília, foi um sistema fotovoltaico de 38 placas de 330Wp, no qual irá gerar uma economia de mais ou menos 1200 reais mensais para o cliente, totalizando ao final de um ano completo 14400 reais salvos devido ao serviço adquerido. 
+
+Potência: 12,54 KWp
+
+Número de Placas: 38
+
+Produção anual: 19200 kWh
