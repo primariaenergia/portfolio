@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Célia"
+description: O projeto realizado foi um sistema fotovoltaico de 20 placas no  [...]
+date: 2019-12-20
+img: celia.jpg
+---
+
+O projeto realizado no Lago Norte, em Brasília, foi um sistema fotovoltaico de 24 placas de 340Wp, no qual irá gerar uma economia de mais ou menos 840 reais mensais para o cliente, totalizando ao final de um ano completo 10.080 reais salvos devido ao serviço adquerido. 
+
+Potência: 6,8 KWp
+
+Número de Placas: 24
+
+Produção anual: 12.600 kWh
