@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Warlei"
+description: O projeto realizado foi um sistema fotovoltaico de 12 placas no  [...]
+date: 2019-12-20
+img: warlei.jpg
+---
+
+O projeto realizado em Vicente Pires, em Brasília, foi um sistema fotovoltaico de 12 placas de 340Wp, no qual irá gerar uma economia de mais ou menos 420 reais mensais para o cliente, totalizando ao final de um ano completo 5040 reais salvos devido ao serviço adquerido. 
+
+Potência: 4.08 KWp
+
+Número de Placas: 12
+
+Produção anual: 6.240 kWh
