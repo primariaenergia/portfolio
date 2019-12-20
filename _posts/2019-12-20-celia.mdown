@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Projeto Célia"
-description: O projeto realizado foi um sistema fotovoltaico de 20 placas no  [...]
+description: O projeto realizado foi um sistema fotovoltaico de 24 placas no  [...]
 date: 2019-12-20
 img: celia.jpg
 ---
