@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Sara"
+description: O projeto realizado foi um sistema fotovoltaico de 20 placas no  [...]
+date: 2019-12-20
+img: fernandolowande.jpg
+---
+
+O projeto realizado no Gama, em Brasília, foi um sistema fotovoltaico de 20 placas de 340Wp, no qual irá gerar uma economia de mais ou menos 680 reais mensais para o cliente, totalizando ao final de um ano completo 8160 reais salvos devido ao serviço adquerido. 
+
+Potência: 6,8 KWp
+
+Número de Placas: 20
+
+Produção anual: 10.200 kWh
