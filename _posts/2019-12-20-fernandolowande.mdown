@@ -3,7 +3,7 @@ layout: post
 title:  "Projeto Fernando Lowande"
 description: O projeto realizado foi um sistema fotovoltaico de 15 placas no  [...]
 date: 2019-12-20
-img: paulo.jpg
+img: fernandolowande.jpg
 ---
 
 O projeto realizado no Setor Hab. Taquari, em Brasília, foi um sistema fotovoltaico de 15 placas de 400Wp, no qual irá gerar uma economia de mais ou menos 600 reais mensais para o cliente, totalizando ao final de um ano completo 7200 reais salvos devido ao serviço adquerido. 
