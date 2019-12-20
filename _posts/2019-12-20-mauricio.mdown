@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Projeto Maurício"
+description: O projeto realizado foi um sistema fotovoltaico de 16 placas no  [...]
+date: 2019-12-20
+img: mauricio.jpg
+---
+
+O projeto realizado no Park Way, em Brasília, foi um sistema fotovoltaico de 16 placas de 340Wp, no qual irá gerar uma economia de mais ou menos 550 reais mensais para o cliente, totalizando ao final de um ano completo 6600 reais salvos devido ao serviço adquerido. 
+
+Potência: 5.44 KWp
+
+Número de Placas: 16
+
+Produção anual: 8.400 kWh
